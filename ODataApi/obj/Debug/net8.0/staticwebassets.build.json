@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eVI1aN5vPx7d47ghW37PLK0M/HZqQADIQUAbh5cdGGA=",
+  "Source": "ODataApi",
+  "BasePath": "_content/ODataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
